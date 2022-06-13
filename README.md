@@ -8,5 +8,4 @@
 - Nguyen Nhut Hao
 
 ## Database Relationship Diagram
-https://github.com/SWP391-Group-1/document/blob/main/Relationship-Diagram.png
 ![Physical Diagram](https://github.com/SWP391-Group-1/document/blob/main/Relationship-Diagram.png?raw=true "Database Relationship Diagram")
