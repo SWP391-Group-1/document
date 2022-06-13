@@ -1,2 +1,12 @@
-**Document, diagram for SWP391 Mini capstone project.**
-**Group 1 SE1622**
+# SWP391 Mini capstone project: Mentor Appointment Scheduling Application
+
+## Team:
+*Group 1 SE1622*
+- Nguyen Huu Huy
+- Vu Quoc Hung
+- Nguyen The Nhan
+- Nguyen Nhut Hao
+
+## Database Relationship Diagram
+https://github.com/SWP391-Group-1/document/blob/main/Relationship-Diagram.png
+![Physical Diagram](https://github.com/SWP391-Group-1/document/blob/main/Relationship-Diagram.png?raw=true "Database Relationship Diagram")
